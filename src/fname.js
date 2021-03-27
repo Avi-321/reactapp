@@ -17,7 +17,7 @@ const sdata =
 	},
 	{
 		name:"Phir Hera Pheri",
-		imgsrc:"/fphotos/hp.jpg",
+		imgsrc:"./fphotos/hp.jpg",
 		link:"https://www.uwatchfree.mn/netutv.php?vid=anYmbqeeMBAo"
 	},
 	{
